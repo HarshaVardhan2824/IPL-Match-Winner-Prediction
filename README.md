@@ -122,7 +122,7 @@ Models were evaluated using:
 
 ### Model Accuracy Comparison
 
-![Accuracy Comparison](Images/Accuracy.png)
+![Accuracy Comparison](Images/Accuracy .png)
 
 ### Confusion Matrix
 
